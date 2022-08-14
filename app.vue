@@ -1,6 +1,13 @@
 <template>
   <div
-    class="font-sans text-stone-800 bg-stone-100 min-h-screen min-w-screen w-full flex flex-col"
+    class="
+      font-sans
+      bg-black
+      text-white
+      min-h-screen min-w-screen
+      w-full
+      flex flex-col
+    "
   >
     <OrganismsHeader />
     <main class="flex-grow flex flex-col">
@@ -22,7 +29,7 @@ export default {
         crossorigin: true,
       },
       {
-        href: "https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,400;0,600;1,400;1,600&display=swap",
+        href: "https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,400;0,700;1,400;1,700&display=swap",
         rel: "stylesheet",
       },
     ],

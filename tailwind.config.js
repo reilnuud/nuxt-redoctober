@@ -8,8 +8,19 @@ module.exports = {
     "./app.vue",
   ],
   theme: {
+    colors: {
+      black: {
+        DEFAULT: "#241E1F",
+      },
+      red: {
+        DEFAULT: "#EB2227",
+      },
+      white: {
+        DEFAULT: "#ffffff",
+      },
+    },
     fontFamily: {
-      sans: ["Urbanist", "sans-serif"],
+      sans: ["'Exo 2'", "sans-serif"],
     },
   },
   plugins: [typography],
