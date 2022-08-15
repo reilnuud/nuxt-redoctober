@@ -3,8 +3,8 @@
     id="about"
     class="flex flex-col items-center justify-start flex-grow pt-[22vh]"
   >
-    <div class="sticky top-0">
-      <div class="p-6 w-full mx-auto max-w-md relative">
+    <div class="sticky top-0 z-0">
+      <div class="px-6 w-full mx-auto max-w-md relative">
         <IconsLogo />
         <!-- <div
         class="bottom-0 bg-gradient-to-b from-black absolute left-0 right-0 h-6"
@@ -18,7 +18,8 @@
           <h2 class="font-bold flex gap-2">
             <span>Oct</span>
             <span>14</span>
-            <span>15 + 16</span>
+            <span>-</span>
+            <span>16</span>
             <span>2022</span>
           </h2>
           <p>
@@ -34,7 +35,7 @@
     >
       <!-- big red ball -->
       <div
-        class="absolute bg-red rounded-full h-[400vw] md:h-[200vw] w-[400vw] md:w-[200vw] z-10"
+        class="absolute bg-red rounded-full h-[1000vw] md:h-[200vw] w-[1000vw] md:w-[200vw] z-10"
       />
       <div class="absolute bg-black top-24 left-0 right-0 bottom-0 z-0" />
       <!-- description -->
@@ -65,7 +66,7 @@
       <div id="series" class="relative w-full z-20">
         <svg
           viewbox="0 0 10 10"
-          class="fill-black w-full absolute top-full scale-y-150 md:scale-y-100 -translate-y-12 md:top-48"
+          class="fill-black w-[200vw] -translate-x-1/4 absolute top-full scale-y-150 md:scale-y-100 -translate-y-12 md:top-48"
         >
           <path d="M0 5 L0 10 L10 10 L10 5 L5 0 Z" />
         </svg>
@@ -129,7 +130,7 @@
       <!-- events -->
       <div
         id="events"
-        class="relative items-center text-center flex flex-col gap-12 z-10 mt-12 pb-48 z-30"
+        class="relative items-center text-center flex flex-col gap-12 z-10 mt-12 pb-24 z-30"
       >
         <h2 class="uppercase font-bold text-lg tracking-[1px]">Events</h2>
         <div class="flex flex-col gap-3">
