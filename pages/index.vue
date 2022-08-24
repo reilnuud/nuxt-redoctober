@@ -13,7 +13,14 @@
       <Container>
         <h1 class="hidden">Red October</h1>
         <div
-          class="flex flex-col gap-3 items-center justify-center text-center mt-3"
+          class="
+            flex flex-col
+            gap-3
+            items-center
+            justify-center
+            text-center
+            mt-3
+          "
         >
           <h2 class="font-bold flex gap-2">
             <span>Oct</span>
@@ -35,12 +42,29 @@
     >
       <!-- big red ball -->
       <div
-        class="absolute bg-red rounded-full h-[1000vw] md:h-[200vw] w-[1000vw] md:w-[200vw] z-10"
+        class="
+          absolute
+          bg-red
+          rounded-full
+          h-[1000vw]
+          md:h-[200vw]
+          w-[1000vw]
+          md:w-[200vw]
+          z-10
+        "
       />
       <div class="absolute bg-black top-24 left-0 right-0 bottom-0 z-0" />
       <!-- description -->
       <Container
-        class="relative z-20 mt-[15vw] lg:mt-[5vw] prose text-sm prose-p:text-white"
+        class="
+          relative
+          z-20
+          mt-[15vw]
+          lg:mt-[5vw]
+          prose
+          text-sm
+          prose-p:text-white
+        "
       >
         <p>
           Drawing inspiration from past models of theory and practice, Red
@@ -66,46 +90,71 @@
       <div id="series" class="relative w-full z-20">
         <svg
           viewbox="0 0 10 10"
-          class="fill-black w-[200vw] -translate-x-1/4 absolute top-full scale-y-150 md:scale-y-100 -translate-y-12 md:top-48"
+          class="
+            fill-black
+            w-[200vw]
+            -translate-x-1/4
+            absolute
+            top-full
+            scale-y-150
+            md:scale-y-100
+            -translate-y-12
+            md:top-48
+          "
         >
           <path d="M0 5 L0 10 L10 10 L10 5 L5 0 Z" />
         </svg>
         <ul
-          class="px-6 max-w-4xl mx-auto mt-20 w-full grid grid-cols-1 md:grid-cols-3 gap-6 relative z-20 leading-tight"
+          class="
+            px-6
+            max-w-4xl
+            mx-auto
+            mt-20
+            w-full
+            grid grid-cols-1
+            md:grid-cols-3
+            gap-6
+            relative
+            z-20
+            leading-tight
+          "
         >
           <!-- day 1 -->
           <li class="flex flex-col gap-3 items-center">
             <h3 class="font-bold uppercase text-xs tracking-[1px]">Day I</h3>
             <div class="text-black bg-white p-6 w-full">
-              <h3 class="font-bold">No Green Capitalism</h3>
+              <h3 class="font-bold">
+                No Green Capitalism: Envisioning Ecosocialist Futures and How We
+                Get There
+              </h3>
               <p class="text-sm my-3">
-                An abundance of desublimations concerning Sontagist camp exist.
-                Thus, Derrida uses the term ‘posttextual libertarianism’ to
-                denote not discourse per se, but neodiscourse.
+                This panel brings together a range of approaches to post-fossil
+                futures. It will address competing approaches to de/growth,
+                radical Green New Deals, and the decolonial, anti-racist Red
+                Deal. Where is our common ground and how can we strategize
+                together in challenging the unsustainable and socially unjust
+                conditions of green capitalism?
               </p>
               <p class="text-xs uppercase font-bold text-red">Speakers</p>
-              <p class="text-xs mt-1">
-                Maxwell Calhoun, Malakai Velez, Ayaan Larson
-              </p>
+              <p class="text-xs mt-1">TBA</p>
             </div>
           </li>
           <!-- day 2 -->
           <li class="flex flex-col gap-3 items-center">
             <h3 class="font-bold uppercase text-xs tracking-[1px]">Day II</h3>
             <div class="text-black bg-white p-6 w-full">
-              <h3 class="font-bold">Building Labor Power</h3>
+              <h3 class="font-bold">
+                Socialist Labor Organizing in Santa Cruz
+              </h3>
               <p class="text-sm my-3">
-                The subject is contextualised into a cultural narrative that
-                includes language as a totality. Therefore, Baudrillard uses the
-                term ‘Sontagist camp’ to denote the bridge between art and
-                sexual identity.
+                What are the most effective approaches to labor organizing? What
+                has worked, what has not? What priorities should be put in place
+                in the near future of labor struggle in Santa Cruz? How can the
+                left grow its capacity, building on the recent regional and
+                national wins with Starbucks and Amazon?
               </p>
               <p class="text-xs uppercase font-bold text-red">Speakers</p>
-
-              <p class="text-xs mt-1">
-                Nelson Holt, Ashleigh Mueller, Bradyn Rice, Elyse Carter, Gauge
-                Mendoza
-              </p>
+              <p class="text-xs mt-1">TBA</p>
             </div>
           </li>
           <!-- day 3 -->
@@ -116,13 +165,14 @@
                 Radical Politics Between Movement Organizing and Electoralism
               </h3>
               <p class="text-sm my-3">
-                Debord uses the term ‘Sontagist camp’ to denote not narrative,
-                but postnarrative. Therefore, if Foucaultist power relations
-                holds, we have to choose between Sontagist camp and
-                subcapitalist deconstructivism.
+                What is the place of electoral politics in the struggle for
+                leftist movement building? What are the strategic objectives,
+                advantages and/or disadvantages of socialists contesting
+                positions within capitalist political institutions? How might
+                political organizing compliment labor and community organizing?
               </p>
               <p class="text-xs uppercase font-bold text-red">Speakers</p>
-              <p class="text-xs mt-1">Branson Ho, Janiyah Price</p>
+              <p class="text-xs mt-1">TBA</p>
             </div>
           </li>
         </ul>
@@ -130,7 +180,17 @@
       <!-- events -->
       <div
         id="events"
-        class="relative items-center text-center flex flex-col gap-12 z-10 mt-12 pb-24 z-30"
+        class="
+          relative
+          items-center
+          text-center
+          flex flex-col
+          gap-12
+          z-10
+          mt-12
+          pb-24
+          z-30
+        "
       >
         <h2 class="uppercase font-bold text-lg tracking-[1px]">Events</h2>
         <div class="flex flex-col gap-3">
@@ -152,15 +212,3 @@
     </div>
   </div>
 </template>
-
-<script>
-export default {
-  data: () => ({
-    content: `
-    <h2>Some Words</h2>
-    <p>Cosmic fugue Apollonius of Perga light years something incredible is waiting to be known of brilliant syntheses radio telescope. The ash of stellar alchemy colonies permanence of the stars the ash of stellar alchemy Drake Equation not a sunrise but a galaxyrise. </p>
-    <p>Corpus callosum extraordinary claims require extraordinary evidence the sky calls to us hundreds of thousands at the edge of forever emerged into consciousness. Inconspicuous motes of rock and gas from which we spring rich in heavy atoms network of wormholes brain is the seed of intelligence intelligent beings and billions upon billions upon billions upon billions upon billions upon billions upon billions.</p>
-    `,
-  }),
-};
-</script>
