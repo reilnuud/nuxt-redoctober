@@ -2,7 +2,7 @@
   <footer
     class="
       mt-auto
-      text-xs text-red
+      text-red
       flex flex-col
       gap-4
       items-center
@@ -11,8 +11,8 @@
       leading-none
     "
   >
-    <a href="https://dsasantacruz.org/">
-      <IconsLogomark class="w-12 bg-red h-12" />
+    <a target="_blank" href="https://dsasantacruz.org/">
+      <IconsLogomark class="w-20 bg-red h-20" />
     </a>
     <p>
       Sponsored by
@@ -24,6 +24,7 @@
           duration-100
           transition
         "
+        target="_blank"
         href="https://dsasantacruz.org/"
       >
         DSA Santa Cruz

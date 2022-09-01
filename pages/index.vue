@@ -193,20 +193,43 @@
         "
       >
         <h2 class="uppercase font-bold text-lg tracking-[1px]">Events</h2>
-        <div class="flex flex-col gap-3">
+        <div class="flex flex-col items-center gap-3">
           <h3 class="font-bold text-xs">Oct 14 2022</h3>
-          <p class="text-red">Happy Hour</p>
+          <div class="p-3 border-[3px] border-red">
+            <h4 class="text-red font-bold text-base">Happy Hour</h4>
+            <p class="text-xs opacity-75">Details</p>
+          </div>
         </div>
-        <div class="flex flex-col gap-3">
+        <div class="flex flex-col items-center gap-3">
           <h3 class="font-bold text-xs">Oct 15 2022</h3>
-          <p class="text-red">People's Disco</p>
-          <p class="text-red">Abolition Ecology Walk</p>
-          <p class="text-red">Labor Workshop</p>
+          <div class="p-3 border-[3px] border-red">
+            <h4 class="text-red font-bold text-base">Abolition Ecology Walk</h4>
+            <p class="text-xs opacity-75">Details</p>
+          </div>
+          <div class="p-3 border-[3px] border-red">
+            <h4 class="text-red font-bold text-base">Labor Workshop</h4>
+            <p class="text-xs opacity-75">Details</p>
+          </div>
         </div>
-        <div class="flex flex-col gap-3">
+        <div class="flex flex-col items-center gap-3">
           <h3 class="font-bold text-xs">Oct 16 2022</h3>
-          <p class="text-red">Palestinian Solidarity Workshop</p>
-          <p class="text-red">Movie</p>
+          <div class="p-3 border-[3px] border-red">
+            <h4 class="text-red font-bold text-base">
+              Palestinian Solidarity Workshop
+            </h4>
+            <p class="text-xs opacity-75">Details</p>
+          </div>
+          <div class="p-3 border-[3px] border-red">
+            <h4 class="text-red font-bold text-base">Movie</h4>
+            <p class="text-xs opacity-75">Details</p>
+          </div>
+        </div>
+        <div class="flex flex-col items-center gap-3">
+          <h3 class="font-bold text-xs">Oct 31 2022</h3>
+          <div class="p-3 border-[3px] border-red">
+            <h4 class="text-red font-bold text-base">People's Disco</h4>
+            <p class="text-xs opacity-75">Details</p>
+          </div>
         </div>
       </div>
     </div>
