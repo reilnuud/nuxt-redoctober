@@ -75,7 +75,9 @@
         >
           <!-- day 1 -->
           <li class="flex flex-col gap-3 items-center">
-            <h3 class="font-bold uppercase text-xs tracking-[1px]">Day I</h3>
+            <h3 class="font-bold uppercase text-xs tracking-[1px]">
+              Day I / Oct 14
+            </h3>
             <div class="text-black bg-white p-6 w-full">
               <h3 class="font-bold">
                 No Green Capitalism: Envisioning Ecosocialist Futures and How We
@@ -100,7 +102,9 @@
 
           <!-- day 2 -->
           <li class="flex flex-col gap-3 items-center">
-            <h3 class="font-bold uppercase text-xs tracking-[1px]">Day II</h3>
+            <h3 class="font-bold uppercase text-xs tracking-[1px]">
+              Day II / Oct 15
+            </h3>
             <div class="text-black bg-white p-6 w-full">
               <h3 class="font-bold">
                 Socialist Labor Organizing in Santa Cruz
@@ -123,7 +127,9 @@
 
           <!-- day 3 -->
           <li class="flex flex-col gap-3 items-center">
-            <h3 class="font-bold uppercase text-xs tracking-[1px]">Day III</h3>
+            <h3 class="font-bold uppercase text-xs tracking-[1px]">
+              Day III / Oct 16
+            </h3>
             <div class="text-black bg-white p-6 w-full">
               <h3 class="font-bold">
                 Radical Politics Between Movement Organizing and Electoralism
