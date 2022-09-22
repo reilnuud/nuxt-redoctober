@@ -78,6 +78,7 @@
             <h3 class="font-bold uppercase text-xs tracking-[1px]">
               Day I / Oct 14
             </h3>
+            <!-- talk -->
             <div class="text-black bg-white p-6 w-full">
               <h3 class="font-bold">
                 No Green Capitalism: Envisioning Ecosocialist Futures and How We
@@ -97,6 +98,25 @@
                 together in challenging the unsustainable and socially unjust
                 conditions of green capitalism?
               </p>
+              <hr class="my-3 border border-black" />
+              <h3 class="font-bold">
+                Film Screening:
+                <span class="italic">Sorry to Bother You (2018)</span>
+              </h3>
+              <div
+                class="text-red text-xs flex flex-col gap-1 my-2 font-bold uppercase"
+              >
+                <p>TABBY CAT CAFE</p>
+                <p>1101 CEDAR ST / 8:00-10:00PM</p>
+              </div>
+              <!-- <p class="text-sm my-3">
+                This panel brings together a range of approaches to post-fossil
+                futures. It will address competing approaches to de/growth,
+                radical Green New Deals, and the decolonial, anti-racist Red
+                Deal. Where is our common ground and how can we strategize
+                together in challenging the unsustainable and socially unjust
+                conditions of green capitalism?
+              </p> -->
             </div>
           </li>
 
@@ -106,6 +126,37 @@
               Day II / Oct 15
             </h3>
             <div class="text-black bg-white p-6 w-full">
+              <h3 class="font-bold">Visit the Lichen Museum</h3>
+              <div
+                class="text-red text-xs flex flex-col gap-1 my-2 font-bold uppercase"
+              >
+                <p>LANDING COMMUNITY SPACE</p>
+                <p>1409 PACIFIC AVE @ 11:00AM-12:30PM</p>
+              </div>
+              <p class="text-sm my-3">
+                Zero in on inhabitants of the sidewalks and river bank
+                ecologies; enter slowed, horizontal, colorful and complex worlds
+                that co-exist with those of capitalist urgency but are mostly
+                overlooked or stepped on.
+              </p>
+              <hr class="my-3 border border-black" />
+              <h3 class="font-bold">
+                The Palestinian Struggle for Liberation: Why It Matters and How
+                to Get Involved
+              </h3>
+              <div
+                class="text-red text-xs flex flex-col gap-1 my-2 font-bold uppercase"
+              >
+                <p>LANDING COMMUNITY SPACE</p>
+                <p>1409 PACIFIC AVE @ 1:00-2:30PM</p>
+              </div>
+              <p class="text-sm my-3">
+                Palestinians continue to resist Israeli colonial terror, and a
+                growing international movement has risen up in support of their
+                struggle. We'll discuss why this should matter to all of us and
+                what we can do.
+              </p>
+              <hr class="my-3 border border-black" />
               <h3 class="font-bold">
                 Socialist Labor Organizing in Santa Cruz
               </h3>
@@ -121,6 +172,20 @@
                 in the near future of labor struggle in Santa Cruz? How can the
                 left grow its capacity, building on the recent regional and
                 national wins with Starbucks and Amazon?
+              </p>
+              <hr class="my-3 border border-black" />
+              <h3 class="font-bold">
+                Musical Performance by evicshen at Indexical
+              </h3>
+              <div
+                class="text-red text-xs flex flex-col gap-1 my-2 font-bold uppercase"
+              >
+                <p>1050 RIVER ST., #119 @ 8:00PM</p>
+              </div>
+              <p class="text-sm my-3">
+                Sound artist, experimental music performer, and instrument-maker
+                from San Francisco.
+                <em>Discount for Red October attendees!</em>
               </p>
             </div>
           </li>
@@ -146,6 +211,24 @@
                 advantages and/or disadvantages of socialists contesting
                 positions within capitalist political institutions? How might
                 political organizing compliment labor and community organizing?
+              </p>
+              <hr class="my-3 border border-black" />
+              <h3 class="font-bold">Strike! Labor Working Group Art Build</h3>
+
+              <div
+                class="text-red text-xs flex flex-col gap-1 my-2 font-bold uppercase"
+              >
+                <p>LITTLE GIANT COLLECTIVE</p>
+                <p>115 RIVER ST. SOUTH @ 4:00-6:00PM</p>
+              </div>
+              <p class="my-3 text-sm">
+                The Labor Working Group is working on producing a set of strike
+                materials for our DSA Santa Cruz chapter, consisting of a
+                large-scale “ON STRIKE” banner and picket signs, which we’ll use
+                to support local strikers. We’ll be hosting an ART BUILD at
+                Little Giant Collective. Let’s hang out, have a drink, and build
+                strike materials together! Contact jaredpettitt@gmail.com for
+                info.
               </p>
             </div>
           </li>
