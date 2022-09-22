@@ -3,6 +3,9 @@
     id="about"
     class="flex flex-col items-center justify-start flex-grow pt-[22vh]"
   >
+    <Head>
+      <title>Red October Santa Cruz</title>
+    </Head>
     <div class="sticky top-0 z-0">
       <div class="px-6 w-full mx-auto max-w-xl relative">
         <IconsLogo />
