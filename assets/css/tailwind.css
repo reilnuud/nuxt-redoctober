@@ -18,10 +18,14 @@ html {
   }
 
   @screen lg {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   @screen xl {
-    font-size: 20px;
+    font-size: 24px;
   }
+}
+
+* {
+  overflow: visible;
 }

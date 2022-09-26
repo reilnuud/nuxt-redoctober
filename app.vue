@@ -1,16 +1,9 @@
 <template>
   <div
-    class="
-      font-sans
-      bg-black
-      text-white
-      min-h-screen min-w-screen
-      w-full
-      flex flex-col
-    "
+    class="font-sans bg-black text-white min-h-screen min-w-screen w-full flex flex-col"
   >
-    <OrganismsHeader />
-    <main class="flex-grow flex flex-col">
+    <!-- <OrganismsHeader /> -->
+    <main class="flex-grow">
       <NuxtPage />
     </main>
     <OrganismsFooter />
