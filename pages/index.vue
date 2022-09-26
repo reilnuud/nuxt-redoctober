@@ -1,7 +1,12 @@
 <template>
   <div id="about" class="w-full flex-grow pt-20">
-    <Head title="test">
-      <title>Red October Santa Cruz</title>
+    <Title>Red October Santa Cruz</Title>
+    <Head>
+      <meta
+        name="description"
+        content="Red October is a Santa Cruz-based convergence of radical events and discussions, art and presentations, joining flourishing movements sharing a post-capitalist, socialist horizon."
+      />
+      <meta property="og:image" content="/meta.png" />
     </Head>
     <div>
       <div class="sticky top-0 z-0 w-full pb-10">
