@@ -84,7 +84,7 @@
         <img
           alt="logo"
           class="object-contain max-w-[12rem] h-20"
-          src="/logos/RCNV-WHITE LOGO.png"
+          src="/logos/RCNV-WHITE_LOGO.png"
         />
       </a>
     </div>
