@@ -158,8 +158,8 @@
                 <div
                   class="text-red text-xs flex flex-col gap-1 my-2 font-bold uppercase"
                 >
-                  <p>LANDING COMMUNITY SPACE</p>
-                  <p>1409 PACIFIC AVE @ 1:00-2:30PM</p>
+                  <p>London Nelson Community Center</p>
+                  <p>301 Center St, Room 5 @ 1:00-2:30PM</p>
                 </div>
                 <p class="text-sm my-3">
                   Palestinians continue to resist Israeli colonial terror, and a
@@ -198,6 +198,15 @@
                   instrument-maker from San Francisco.
                   <em>Discount for Red October attendees!</em>
                 </p>
+                <p class="text-sm font-bold my-3">
+                  More info and tickets
+                  <a
+                    class="underline underline-offset-2 decoration-1 text-red hover:text-black duration-100 transition"
+                    href="https://www.indexical.org/events/2022-10-15-evicshen"
+                  >
+                    here.
+                  </a>
+                </p>
               </div>
             </li>
 
@@ -213,7 +222,7 @@
                 <div
                   class="text-red text-xs flex flex-col gap-1 my-2 font-bold uppercase"
                 >
-                  <p>Resource Center for Non-Violence, Community Room</p>
+                  <p>Resource Center for Nonviolence, Community Room</p>
                   <p>612 Ocean St @ 1:00-3:00pm</p>
                 </div>
                 <p class="text-sm my-3">
@@ -238,9 +247,15 @@
                   strike materials for our DSA Santa Cruz chapter, consisting of
                   a large-scale “ON STRIKE” banner and picket signs, which we'll
                   use to support local strikers. We'll be hosting an ART BUILD
-                  at Little Giant Collective. Let's hang out, have a drink, and
-                  build strike materials together! Contact
-                  jaredpettitt@gmail.com for info.
+                  at
+                  <a
+                    class="underline underline-offset-2 decoration-1 text-red hover:text-black duration-100 transition"
+                    href="https://www.littlegiantcollective.com/"
+                  >
+                    Little Giant Collective
+                  </a>
+                  . Let's hang out, have a drink, and build strike materials
+                  together! Contact jaredpettitt@gmail.com for info.
                 </p>
               </div>
             </li>
