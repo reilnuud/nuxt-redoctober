@@ -87,6 +87,13 @@
           src="/logos/RCNV-WHITE_LOGO.png"
         />
       </a>
+      <a>
+        <img
+          alt="logo"
+          class="object-contain max-w-[12rem] h-20"
+          src="/logos/safeagsafeschools.jpeg"
+        />
+      </a>
     </div>
     <!-- <a target="_blank" href="https://dsasantacruz.org/">
       <IconsLogomark class="w-20 bg-red h-20" />

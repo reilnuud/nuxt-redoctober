@@ -109,6 +109,15 @@
                   we strategize together in challenging the unsustainable and
                   socially unjust conditions of green capitalism?
                 </p>
+                <!-- <h4 class="font-bold text-red text-xs uppercase tracking-1">
+                  Speakers
+                </h4> -->
+                <p class="text-sm text-red italic mb-3">
+                  With Martabel Wasserman and TJ Demos (DSA); Gwen Parden, Maya
+                  Caminada, and Logan Haug (UCSC Climate Coalition); and Mark
+                  Weller and Yanely Martinez (Safe Ag Safe Schools /
+                  Californians for Pesticide Reform)
+                </p>
                 <hr class="my-3 border border-black" />
                 <h3 class="font-bold">
                   Film Screening:
@@ -184,6 +193,10 @@
                   How can the left grow its capacity, building on the recent
                   regional and national wins with Starbucks and Amazon?
                 </p>
+                <p class="text-sm text-red italic mb-3">
+                  With Jeb Purucker, Sarah Mason, Kyle Galindez, and Jared
+                  Pettit.
+                </p>
                 <hr class="my-3 border border-black" />
                 <h3 class="font-bold">
                   Musical Performance by evicshen at Indexical
@@ -232,6 +245,10 @@
                   positions within capitalist political institutions? How might
                   political organizing compliment labor and community
                   organizing?
+                </p>
+                <p class="text-sm text-red italic mb-3">
+                  With Hector Marin, Joy Schendledecker, Jeb Purucker, Angela
+                  Taylor, and Reggie Meisler
                 </p>
                 <hr class="my-3 border border-black" />
                 <h3 class="font-bold">Strike! Labor Working Group Art Build</h3>
