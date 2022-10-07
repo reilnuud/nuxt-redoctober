@@ -184,7 +184,7 @@
                   class="text-red text-xs flex flex-col gap-1 my-2 font-bold uppercase"
                 >
                   <p>London Nelson Community Center</p>
-                  <p>301 Center St, Room 5 @ 5:00-7:00pm</p>
+                  <p>301 Center St, Room 5 @ 3:00-5:00pm</p>
                 </div>
                 <p class="text-sm my-3">
                   What are the most effective approaches to labor organizing?
