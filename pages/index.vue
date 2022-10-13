@@ -176,6 +176,11 @@
                   their struggle. We'll discuss why this should matter to all of
                   us and what we can do.
                 </p>
+                <p class="text-sm italic text-red my-3">
+                  With UCSC Students for Justice in Palestine, UCSC History
+                  Department, Palestine Justice Coalition, DSA BDS and Palestine
+                  Solidarity Working Group.
+                </p>
                 <hr class="my-3 border border-black" />
                 <h3 class="font-bold">
                   Socialist Labor Organizing in Santa Cruz

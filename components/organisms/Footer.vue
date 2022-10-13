@@ -87,11 +87,37 @@
           src="/logos/RCNV-WHITE_LOGO.png"
         />
       </a>
-      <a>
+      <a
+        href="https://sites.google.com/ucsc.edu/ucsc-climate-coalition/home "
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="logo"
+          class="object-contain max-w-[12rem] h-20"
+          src="/logos/CC-UCSC.png"
+        />
+      </a>
+      <a
+        href="https://www.instagram.com/safeagsafeschools/?hl=en"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <img
           alt="logo"
           class="object-contain max-w-[12rem] h-20"
           src="/logos/safeagsafeschools.jpeg"
+        />
+      </a>
+      <a
+        href="https://rcnv.org/programs/palestine-justice-coalition/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          alt="logo"
+          class="object-contain max-w-[12rem] h-20"
+          src="/logos/bds.jpeg"
         />
       </a>
     </div>
