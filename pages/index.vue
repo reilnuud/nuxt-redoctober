@@ -151,7 +151,7 @@
                   class="text-red text-xs flex flex-col gap-1 my-2 font-bold uppercase"
                 >
                   <p>LANDING COMMUNITY SPACE</p>
-                  <p>1409 PACIFIC AVE @ 11:00AM-12:30PM</p>
+                  <p>650 River St. @ 11:00AM-12:30PM</p>
                 </div>
                 <p class="text-sm my-3">
                   Zero in on inhabitants of the sidewalks and river bank
