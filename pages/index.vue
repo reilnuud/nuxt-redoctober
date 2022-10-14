@@ -177,9 +177,10 @@
                   us and what we can do.
                 </p>
                 <p class="text-sm italic text-red my-3">
-                  With UCSC Students for Justice in Palestine, UCSC History
-                  Department, Palestine Justice Coalition, DSA BDS and Palestine
-                  Solidarity Working Group.
+                  With members from UCSC Students for Justice in Palestine,
+                  Jadaliyya and MERIP (Middle East Research and Information
+                  Project), Palestine Justice Coalition, and DSA BDS and
+                  Palestine Solidarity Working Group.
                 </p>
                 <hr class="my-3 border border-black" />
                 <h3 class="font-bold">
